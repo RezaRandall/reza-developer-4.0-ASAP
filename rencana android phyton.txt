@@ -2,8 +2,10 @@ Rencana android
 - belajar phyton
   * dasar pemrograman phyton
   * framework phyton
+   ^ Django 
 - belajar androd studio 
 - belajar koltin 
 - mengembangkan aplikasi marketplace 
 - mengembangkan aplikasi tourizm 
-
+- PHP Framework 
+ ^ laravel
