@@ -1,0 +1,4 @@
+Resolusi
+- Konsisten untuk mengembangkan web applikasi 
+- Mengembangkan php laravel project 
+- Mengembangkan skill javascript
