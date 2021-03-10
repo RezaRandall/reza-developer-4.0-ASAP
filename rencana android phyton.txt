@@ -2,11 +2,10 @@ Rencana android
 - belajar phyton
   * dasar pemrograman phyton
   * framework phyton
-  ^ Flask 
-  ^ Tornado
+   ^ Django 
+- belajar androd studio 
 - belajar koltin 
 - mengembangkan aplikasi marketplace 
 - mengembangkan aplikasi tourizm 
 - PHP Framework 
  ^ laravel
- 
