@@ -5,4 +5,5 @@ Rencana android
 - belajar androd studio 
 - belajar koltin 
 - mengembangkan aplikasi marketplace 
+- mengembangkan aplikasi tourizm 
 
