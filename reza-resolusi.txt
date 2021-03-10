@@ -2,3 +2,7 @@ Resolusi
 - Konsisten untuk mengembangkan web applikasi 
 - Mengembangkan php laravel project 
 - Mengembangkan skill javascript
+- Mengembangkan ide startup 
+- mengasah skill golang
+- mencoba skill baru phyton 
+
