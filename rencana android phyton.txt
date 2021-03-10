@@ -1,4 +1,8 @@
 Rencana android
 - belajar phyton
+  * dasar pemrograman phyton
+  * framework phyton
 - belajar androd studio 
 - belajar koltin 
+- mengembangkan aplikasi marketplace 
+
